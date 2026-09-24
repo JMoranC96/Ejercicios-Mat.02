@@ -1,0 +1,12 @@
+<b>Negrita</b>
+<i>Cursiva</i>
+<del>Tachado</del>
+<em>Emfasis</em>
+x<Sup>2</sup>
+x<Sub>3</sub>
+<mark>Subrayado</mark>   <!-- (HTML5) -->
+<q>Pequeña cita</q>
+<cite>Referencia bibliografica</cite>
+<time>12:30</time>  <!-- (HTML5) -->
+<adress>Calle San Juan</adress>
+<blockquote>Citas largas</blockquote>
