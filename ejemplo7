@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Titulo de la pagina</title>
+          <meta charset="utf-8">
+     <body>
+         <h1>Alineaciones</h1>
+         <p align="center">Parrafo con alineacion centrada</p>
+         <p align="left">Parrafo con alineacion a la izquierda</p>
+         <p align="right">Parrafo con alineacion a la derecha</p>
+     </body>
+</html>     
