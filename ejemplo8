@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <title>Titulo de la guerra</title>
+        <meta charset="utf-8">
+     <body>
+         <h1>Etiquetas especiales</h1<
+         <hr>
+         <p>
+            He incluido una linea horizontal.
+            No lleva etiqueta de cierre porque no contiene texto.
+         </p>
+     </body>
+</html>     
